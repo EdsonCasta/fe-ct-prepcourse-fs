@@ -39,7 +39,6 @@ function agregarStringInvertida() {
       return this.split('').reverse().join('');
    }
 }
-console.log(agregarStringInvertida());
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
